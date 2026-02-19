@@ -56,9 +56,10 @@ Current phase: architecture definition and literature review. No production code
 ## Author
 
 **Reid McGill**
-Doctoral Researcher, George Washington University /n
-Boeing BCA — Digital Engineering /n
-Founder, [Fionn Labs](https://fionnlabs.com)
+Doctoral Researcher, George Washington University  | 
+Founder, [Fionn Labs](https://fionnlabs.com)  | 
+Boeing BCA — Digital Engineering 
+
 
 ## License
 
